@@ -82,5 +82,8 @@
   "fonts": {
     "family": "Geist",
     "weight": 500
+  },
+  "background": {
+    "decoration": "windows"
   }
 }
