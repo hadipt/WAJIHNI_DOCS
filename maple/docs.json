@@ -17,7 +17,11 @@
      "perplexity",
      "mcp",
      "cursor",
-     "vscode"
+    "vscode",
+    "assistant",
+    "download-pdf",
+    "aistudio",
+    "grok"
    ]
  },
   "navigation": {
