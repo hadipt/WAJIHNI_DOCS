@@ -68,9 +68,15 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://www.linkedin.com/company/mintsearch"
+      "instagram": "https://www.instagram.com/epstimi.signum",
+      "website": "https://epstimisignum.vercel.app/"
     }
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "fonts": {
+    "family": "Geist",
+    "weight": 500
   }
 }
