@@ -14,15 +14,9 @@
      "view",
      "chatgpt",
      "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-    "vscode",
     "assistant",
-    "download-pdf",
-    "aistudio",
-    "grok"
-   ]
+    "download-pdf"
+  ]
  },
   "navigation": {
     "languages": [
@@ -86,5 +80,6 @@
   },
   "background": {
     "decoration": "windows"
-  }
+  },
+  "description": "دليلك نحو اختيار تخصصك الجامعي بوعي وثقة — مبادرة من نادي Epstimi Signum لطلاب الباكالوريا الجزائريين."
 }
