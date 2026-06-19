@@ -7,7 +7,10 @@
     "light": "#EA580C",
     "dark": "#9A3412"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/maple/images/Group1q21.svg",
+    "dark": "/maple/images/Group1q21.svg"
+  },
   "contextual": {
    "options": [
      "copy",
