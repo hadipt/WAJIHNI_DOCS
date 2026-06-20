@@ -60,5 +60,8 @@
   "background": {
     "decoration": "windows"
   },
-  "description": "دليلك نحو اختيار تخصصك الجامعي بوعي وثقة — مبادرة من نادي Epstimi Signum لطلاب الباكالوريا الجزائريين."
+  "description": "دليلك نحو اختيار تخصصك الجامعي بوعي وثقة — مبادرة من نادي Epstimi Signum لطلاب الباكالوريا الجزائريين.",
+  "thumbnails": {
+    "background": "/maple/images/Desktop-1.png"
+  }
 }
